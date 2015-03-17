@@ -28,13 +28,19 @@ h2{
 h3{
   color:white;
 }
-.ore{
-  color:white;
-}
 .dongl{
   color:white;
 }
 p{
   font-size:20px;
+  color:white;
+}
+nav ul li{
+  font-size:20px;
+}
+.ore{
+  color:white;
+}
+.pro{
   color:white;
 }
